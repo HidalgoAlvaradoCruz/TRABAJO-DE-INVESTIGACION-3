@@ -1,16 +1,4 @@
-##  ACTUADORES Implementación en Thinkercad un programa en Arduino por cada uno de los sensores disponibles:
-
-**- Motor de CC**
-
-**- Control remoto por IR**
-
-**- Microservomotor**
-
-**- Motor de vibración**
-
-**- LCD**
-
-**- Anillo de 12 Neopixeles**
+##  ACTUADORES.Implementación en Thinkercad un programa en Arduino por cada uno de los sensores disponibles:Motor de CC,Control remoto por IR,Microservomotor, Motor de vibración,LCD,Anillo de 12 Neopixeles
 
 <br>
 
