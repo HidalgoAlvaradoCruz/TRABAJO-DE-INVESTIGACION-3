@@ -409,7 +409,11 @@ En conclusión:
 
 **14. BIBLIOGRAFÍA**
 
+[1] Galian, H. (2017, 5 junio). Aprendiendo Arduino. Aprendiendo Arduio. https://aprendiendoarduino.wordpress.com/category/actuadores/
 
+[2]Cardan, J. (2017, 5 febrero). CLR. Uso de Actuadores con Arduino. https://clr.es/blog/es/actuadores-arduino/
+
+[3] Cailla, F. (2018, 1 diciembre). Juegos Robótica. Iniciación a Arduino por bloques #3. Interacción con el medio físico: sensores y actuadores. https://juegosrobotica.es/cursos/curso-iniciacion-arduino-bloques/3-sensores-y-actuadores/
 
 **15. ANEXOS**
 
