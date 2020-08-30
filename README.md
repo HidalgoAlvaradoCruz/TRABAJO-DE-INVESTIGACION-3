@@ -40,7 +40,26 @@ Implementar en Thinkercad un programa en Arduino por cada uno de los actuadores 
 
 **3. ESTADO DEL ARTE**
 
+<br>
 
+En 2017, Tir, Z., Malik, O., Hamida, MA, Cherif, H., Bekakra, Y. y Kadrine, A., en el Congreso Internacional de Ingeniería Eléctrica - Boumerdes realizaron la Implementación de un controlador de velocidad de lógica difusa para un motor de CC de imán permanente utilizando una plataforma Arduino de bajo costo, la implementación de un controlador de velocidad Fuzzy Logic para un motor de CC de imán permanente (PMDC) utilizando un Arduino de bajo costo interconectado con un entorno estándar. La solución Arduino es aceptable a frecuencias de muestreo de kHz. El estudio del control de velocidad del motor PMDC basado en Arduino y L298N H-Bridge utilizando un método de control de inteligencia artificial, ha sido validado mediante experimentos en el sistema físico. (Tir, Z., Malik, O., Hamida,Tir, 2017, p.1) [4].
+
+
+Rosly, MA, Samad, Z., Shaari, MF y Rosly, MA miembros de la Facultad de Ingeniería Mecánica y Manufactura de la Universidad Tun Hussein Onn Malasia en 2014 Rosly, realizaron estudios de viabilidad del uso del microcontrolador Arduino para el control de actuadores IPMC. El uso del microcontrolador Arduino para controlar el circuito cerrado de la respuesta del actuador de compuesto metálico de polímero iónico (IPMC) diseñado para aplicaciones subacuáticas compactas. Demostramos el control de un solo actuador IPMC mediante el controlador PID utilizando el paquete de soporte MATLAB / Simulink Arduino Input Output (ArduinoIO). Los resultados experimentales muestran que el microcontrolador es capaz de diferenciar la velocidad de respuesta, la estabilidad y el error de seguimiento de diferentes espesores del actuador IPMC cuando es estimulado por múltiples ondas de voltaje y frecuencias.(Rosly, MA, Samad, 2014, p.1) [5].
+
+
+
+En 2015, Vidal, Y., Rodellar, J., Acho, L. y Tutiven, C desarrollaron un Control activo tolerante a fallas de actuadores de paso probado en una simulación de ARDUINO de hardware en el circuito para controladores de turbinas eólicas. El número y la complejidad de los sistemas de control en las turbinas eólicas (WT) se están expandiendo rápidamente y su diseño puede marcar la diferencia entre un sistema inmensamente rentable o un sistema dañado. El diseño de un sistema de control robusto requiere probar los algoritmos de control en el hardware del controlador real. Sin embargo, los WT son grandes y costosos, por lo que nos gustaría realizar esta prueba de forma virtual, sin utilizar prototipos del WT. (Vidal, Y., Rodellar, J., Acho, L. y Tutiven, C, 2015, p.1) [6].
+
+
+En 2014, Davino, D., Giustiniani, A. y Visone, C. del 
+Departamento de Ingeniería, Universidad de Sannio, Benevento, Italia realizaron un estudio para la Compensación de histéresis magnetoestrictiva por Arduino: rendimiento flotante versus de punto fijo.
+El uso de capacidades computacionales integradas en dispositivos con materiales magnetoestrictivos permite el diseño de objetos, capaces de mostrar funciones inteligentes sin el uso de controladores / dispositivos externos. En este trabajo presentamos la compensación de la histéresis de un actuador magnetoestrictivo utilizando una plataforma Arduino de bajo costo (matemática de punto fijo).  Descubrimos que la solución Arduino es en gran medida aceptable, lidia con errores de compensación dentro de unos pocos porcentajes y tiempos de compensación lo suficientemente rápidos. (Davino, D., Giustiniani, A. y Visone, C, 2014, p.1) [7].
+
+
+Para el presente trabajo de investigación, se utilizó el entorno de Simulación AUTODESK TINKERCAD dirigido al diseño de varios Circuitos de prueba mediante el uso de ARDUINO para controlar varios ACTUADORES como: Motor de CC,Control remoto por IR, Microservomotor, Motor de vibración, LCD, Anillo de 12 Neopixeles (Tir, Z., Malik, O., Hamida,Tir, 2017, p.1), utilizando el concepto fundamental para estructurar un código que controle a la vez uno o dos actuadores mediante el uso de ARDUINO (Vidal, Y., Rodellar, J., Acho, L. y Tutiven, C, 2015, p.1). Los programas tienen la capacidad de controlar individualmente los ACTUADORES en la simulación de Tinkercad. (Davino, D., Giustiniani, A. y Visone, C, 2014, p.1).
+
+<br>
 
 **4. MARCO TEÓRICO**
 
