@@ -145,7 +145,7 @@ La Uno tiene 6 entradas analógicas, etiquetadas de A0 a A5, cada una de las cua
 
 ![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img2.jpg)
 
-**ARDUINO UNO PINOUT – FUENTE DE ALIMENTACIÓN **
+**ARDUINO UNO PINOUT – FUENTE DE ALIMENTACIÓN**
 
 Hay 3 formas de alimentar el Arduino Uno: 
 
@@ -221,6 +221,8 @@ Los actuadores van conectados a las salidas de Arduino.
 
 Los motores de corriente continua a menudo se usan con una caja de engranajes para aumentar el torque mientras se mantienen las pequeñas dimensiones. El motor DC es bastante simple de usar. Para que funcione, lo único que hay que hacer es aplicarle voltaje. La señal y el nivel de voltaje determinarán la velocidad y la dirección de rotación.
 
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-2/blob/master/img/img36.png)
+
 **Control remoto por IR**
 
 El control remoto IR (infrarrojos) o mando a distancia de infrarrojos funciona emitiendo pulsos de luz infrarroja (por debajo del visible). La señal infrarroja transmite el código correspondiente al botón del mando a distancia pulsado al dispositivo en forma de una serie de impulsos de luz infrarroja. El receptor recibe la serie de impulsos de infrarrojos y los pasa a un procesador que descodifica y activarán una determinada función del dispositivo.
@@ -246,7 +248,6 @@ Los NeoPixel son originales de Adafruit y son diodos LED de tipo 5050 con un con
 
 **Diagramas Eléctrico**
 
-![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-2/blob/master/img/img36.png)
 
 
 **Diagrama de bloques**
