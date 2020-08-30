@@ -1,0 +1,9 @@
+
+CONTROL IR
+https://www.tinkercad.com/things/dUO5RIuyJpO-trainvcontrol-ir/editel
+
+Anillo 12 Neopixeles
+https://www.tinkercad.com/things/duJA2BZttGa-trabinvesanillo-12-neo-pixeles/editel
+
+MOTOR VIBRADOR
+https://www.tinkercad.com/things/ghHht3bZgZh-trabinvesmotor-de-vibracion/editel
