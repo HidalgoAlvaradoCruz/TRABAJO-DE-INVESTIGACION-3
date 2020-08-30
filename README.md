@@ -280,8 +280,22 @@ Los NeoPixel son originales de Adafruit y son diodos LED de tipo 5050 con un con
 **Anillo de 12 Neo Pixeles**
 
 
+
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/img13.png)
 
+La siguiente aplicación trata de la activacion de los LEDS RGB con una animación  sincronizada para el cambio de color en un espacio determinado de tiempo.
+
+La conexión es la siguiente:
+
+Neopixel de entrada “IN”, conectado con el  pin digital "3" del arduino.
+
+Neopixel" PWR" conectado a "5[V]" del Arduino.
+
+Neopixel "G" conectado al tierra o "GND" del Arduino.
+
+Pulsador conectado a tierra o "GND" y Pin digital ~5 del Arduino.
+
+Led con resistencia conectado a tierra o "GND" y Pin digital 4 del Arduino.
 
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/img14.png)
 
@@ -300,6 +314,26 @@ Los NeoPixel son originales de Adafruit y son diodos LED de tipo 5050 con un con
 
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/img19.png)
 
+La siguiente aplicación trata de la activacion de los LEDS RGB en una tira de 6 NeoPixeles con una animación  sincronizada para el cambio de color en un espacio determinado de tiempo.
+
+Para utilizar el control remoto es necesario saber que para cada botón existe un código por lo tanto al  momento de presionar un botón este manda una serie de números que será recibida por el sensor IR y este a la vez es utilizado para manipular la tira de 6 NeoPixeles.
+.
+La conexión es la siguiente:
+
+Tira de 6 NeoPixel Pin de entrada "DIN" conectado al Pin digital "~5" del arduino.
+
+Tira de 6 NeoPixel Pin "GND" conectado a tierra "GND" del arduino.
+
+Tira de 6 NeoPixel Pin "+5V" conectado a  "5v" del arduino.
+
+Sensor IR Pin "Potencia" conectado a "5v" del arduino.
+
+Sensor IR Pin "Señal" conectado al Pin "4" del arduino.
+
+Sensor IR Pin "GND" conectado a tierra Pin "GND" del arduino.
+
+Nota: Las Tiras de 6 NeoPixel utilizadas son 4, todas conectadas en cascada con sus tres pines en común.
+
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/img20.png)
 
 
@@ -315,7 +349,21 @@ Los NeoPixel son originales de Adafruit y son diodos LED de tipo 5050 con un con
 
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/img23.png)
 
+La siguiente aplicación trata de un motor de vibración que convierte pulsos eléctricos en movimientos mecánicos discretos en este caso de un led.
+
+La conexión es la siguiente:
+
+Motor de vibración pin "Positivo" conectado con el Pin digital "~10" de arduino.
+
+Motor de vibración pin "Negativoo" conectado con tierra Pin "GND" de arduino.
+
+Led "ánodo" conectado con el Pin Digital "7" de arduino.
+
+Led "cátodo" conectado con el Pin "GND" de arduino.
+
+
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/img24.png)
+
 
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/img21.png)
 
