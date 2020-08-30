@@ -221,26 +221,36 @@ Los actuadores van conectados a las salidas de Arduino.
 
 Los motores de corriente continua a menudo se usan con una caja de engranajes para aumentar el torque mientras se mantienen las pequeñas dimensiones. El motor DC es bastante simple de usar. Para que funcione, lo único que hay que hacer es aplicarle voltaje. La señal y el nivel de voltaje determinarán la velocidad y la dirección de rotación.
 
-![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-2/blob/master/img/img36.png)
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/img1.jpg)
 
 **Control remoto por IR**
 
 El control remoto IR (infrarrojos) o mando a distancia de infrarrojos funciona emitiendo pulsos de luz infrarroja (por debajo del visible). La señal infrarroja transmite el código correspondiente al botón del mando a distancia pulsado al dispositivo en forma de una serie de impulsos de luz infrarroja. El receptor recibe la serie de impulsos de infrarrojos y los pasa a un procesador que descodifica y activarán una determinada función del dispositivo.
 
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/img2.jpg)
+
 **Microservomotor**
 
 Servo es un tipo de motor DC con reductora que sólo puede girar 180 grados. Se controla mediante el envío de impulsos eléctricos de Arduino. Estos pulsos le dice al servo a qué posición se debe mover. El Servo tiene tres cables, marrón es el cable a masa y debe conectarse a GND, el rojo es el cable de corriente y debe conectarse al puerto de 5v y el naranja es el cable de señal y debe conectarse al pin #9.
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/img3.png)
 
 **Motor de vibración**
 
 Este es un pequeño motor de vibración adecuado como un indicador no audible. Cuando la entrada es alta, el motor vibra, al igual que un teléfono en modo silencioso.Posee un controlador de amplificación Mos, puede pasar directamente el control de puerto digital Ard-uino.La intensidad de vibración del motor puede ser controlada por PWM; este módulo puede convertir fácilmente señales eléctricas a vibraciones mecánicas.
 
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/img4.jpg)
+
 **LCD**
 Una pantalla LCD (liquid crystal display: ‘pantalla de cristal líquido’ por sus siglas en inglés) es una pantalla delgada y plana formada por un número de píxeles en color o monocromos colocados delante de una fuente de luz o reflectora. A menudo se utiliza en dispositivos electrónicos de pilas, ya que utiliza cantidades muy pequeñas de energía eléctrica.
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/img5.jpg)
 
 **Anillo de 12 Neopixeles**
 
 Los NeoPixel son originales de Adafruit y son diodos LED de tipo 5050 con un controlador WS2812 integrado. Existen en varios tamaños y formas y tienen una amplia documentación, tutoriales así como librerías lista para utilizar con Arduino.
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/img6.jpg)
 
 **5. DIAGRAMAS**
 
