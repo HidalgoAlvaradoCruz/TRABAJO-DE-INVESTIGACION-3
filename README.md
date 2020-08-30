@@ -252,11 +252,6 @@ Una pantalla LCD (liquid crystal display: ‘pantalla de cristal líquido’ por
 Los NeoPixel son originales de Adafruit y son diodos LED de tipo 5050 con un controlador WS2812 integrado. Existen en varios tamaños y formas y tienen una amplia documentación, tutoriales así como librerías lista para utilizar con Arduino.
 
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/img6.jpg)
-![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/img7.jpg)
-![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/img8.jpg)
-![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/img9.jpg)
-![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/img10.jpg)
-![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/img11.jpg)
 
 
 **5. DIAGRAMAS**
@@ -285,6 +280,16 @@ Los NeoPixel son originales de Adafruit y son diodos LED de tipo 5050 con un con
 **Anillo de 12 Neo Pixeles**
 
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/img7.png)
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/img8.png)
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/img9.png)
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/img10.png)
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/img11.png)
+
+
 
 **9. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN**
 
