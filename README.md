@@ -375,6 +375,7 @@ Led "cátodo" conectado con el Pin "GND" de arduino.
 
 **10. APORTACIONES**
 
+Implementación en físico de Arduino con 3 actuadores
 
 
 **11. CONCLUSIONES**
