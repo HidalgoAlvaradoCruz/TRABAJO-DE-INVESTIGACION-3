@@ -435,6 +435,14 @@ En conclusión:
 
 [3] Cailla, F. (2018, 1 diciembre). Juegos Robótica. Iniciación a Arduino por bloques #3. Interacción con el medio físico: sensores y actuadores. https://juegosrobotica.es/cursos/curso-iniciacion-arduino-bloques/3-sensores-y-actuadores/
 
+[4] Tir, Z., Malik, O., Hamida, MA, Cherif, H., Bekakra, Y. y Kadrine, A. (2017). Implementación de un controlador de velocidad de lógica difusa para un motor de CC de imán permanente utilizando una plataforma Arduino de bajo costo. 2017 V Congreso Internacional de Ingeniería Eléctrica - Boumerdes (ICEE-B). doi: 10.1109 / icee-b.2017.8192218 
+
+[5] Rosly, MA, Samad, Z., Shaari, MF y Rosly, MA (2014). Estudios de viabilidad del uso del microcontrolador Arduino para el control de actuadores IPMC. 2014 IEEE International Conference on Control System, Computing and Engineering (ICCSCE 2014). doi: 10.1109 / iccsce.2014.7072697 
+
+[6] Vidal, Y., Rodellar, J., Acho, L. y Tutiven, C. (2015). Control activo tolerante a fallas para fallas de actuadores de paso probado en una simulación de hardware en el circuito para controladores de turbinas eólicas. 2015 XXIII Congreso Mediterráneo de Control y Automatización (MED). doi: 10.1109 / med.2015.7158749
+
+[7] Davino, D., Giustiniani, A. y Visone, C. (2014). Compensación de histéresis magnetoestrictiva por Arduino: rendimiento flotante versus de punto fijo. IEEE Transactions on Magnetics, 50 (11), 1–4. doi: 10.1109 / tmag.2014.2320412  
+
 **15. ANEXOS**
 
 <br>
