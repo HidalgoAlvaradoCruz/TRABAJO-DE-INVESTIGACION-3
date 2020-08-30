@@ -242,6 +242,7 @@ Este es un pequeño motor de vibración adecuado como un indicador no audible. C
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/img4.jpg)
 
 **LCD**
+
 Una pantalla LCD (liquid crystal display: ‘pantalla de cristal líquido’ por sus siglas en inglés) es una pantalla delgada y plana formada por un número de píxeles en color o monocromos colocados delante de una fuente de luz o reflectora. A menudo se utiliza en dispositivos electrónicos de pilas, ya que utiliza cantidades muy pequeñas de energía eléctrica.
 
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/img5.jpg)
@@ -292,11 +293,23 @@ Los NeoPixel son originales de Adafruit y son diodos LED de tipo 5050 con un con
 
 En conclusión:
 
+•	Arduino al ser una plataforma de código abierto permite la simplificación del proceso de trabajo de micro controladores ayudando incluso en el uso de un lenguaje de programación muy entendible y fácil ,convirtiéndose  en un instrumento altamente flexible y adaptable para desarrollar actuadores.
+
+•	La evidencia que los actuadores hacen parte de los elementos más importantes en la industria es inevitable por lo tanto  gracias a ellos es posible verificar su misión de  generar el movimiento de los elementos de estos según las órdenes dadas mediante el Arduino su unidad de control.
+
+•	Controlar cada uno de los actuadores disponibles en Thinkercad desde Arduino se tornó una tarea sencilla gracias al uso de la librerías existentes para cada actuador simplificando de gran manera la programación.
 
 
 **12. RECOMENDACIONES**
 
-<br>
+
+•	Recordar que Arduino solo puede manejar un total de 200 mA de salida. Es decir  es redomendable que la corriente máxima que admite Vcc y GND son 200 mA.
+
+•	Recordar que los pines Arduino solo pueden tener los valores de 5V (3.3V en algunos modelos) y 0V. No es posible cualquier otro valor de tensión.
+
+•	Recordar que los pines de Arduino solo pueden manejar un máximo de 40mA y recomendable usar 20mA de forma continua.
+
+
 
 
 
