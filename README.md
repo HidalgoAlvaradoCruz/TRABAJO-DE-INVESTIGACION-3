@@ -443,6 +443,8 @@ En conclusión:
 
 [7] Davino, D., Giustiniani, A. y Visone, C. (2014). Compensación de histéresis magnetoestrictiva por Arduino: rendimiento flotante versus de punto fijo. IEEE Transactions on Magnetics, 50 (11), 1–4. doi: 10.1109 / tmag.2014.2320412  
 
+<br>
+
 **15. ANEXOS**
 
 <br>
