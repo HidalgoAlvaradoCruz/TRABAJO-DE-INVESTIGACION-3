@@ -68,7 +68,7 @@ Para el presente trabajo de investigación, se utilizó el entorno de Simulació
 Arduino es una plataforma de creación de electrónica de código abierto, la cual está basada en hardware y software libre, flexible y fácil de utilizar para los creadores y desarrolladores. Esta plataforma permite crear diferentes tipos de microordenadores de una sola placa a los que la comunidad de creadores puede darles diferentes tipos de uso.
 Arduino UNO es una placa basada en el microcontrolador ATmega328P. Tiene 14 pines de entrada/salida digital (de los cuales 6 pueden ser usando con PWM), 6 entradas analógicas, un cristal de 16Mhz, conexión USB, conector jack de alimentación, terminales para conexión ICSP y un botón de reseteo. Tiene toda la electrónica necesaria para que el microcontrolador opere, simplemente hay que conectarlo a la energía por el puerto USB o con un transformador AC-DC
 
-**Caracterícas:**
+**Características:**
 
 •	Microcontrolador: ATmega328 
 
@@ -277,13 +277,42 @@ Los NeoPixel son originales de Adafruit y son diodos LED de tipo 5050 con un con
 
 
 
-**Diagramas Eléctrico**
+**Diagramas Eléctricos**
+
+<br>
+
+**•	MOTOR VIBRADOR** 
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/d1.jpg)
+
+El motor de vibración se encuentra conectado por su parte positiva al pin 10 del Arduino uno, mientras su polo negativo se encuentra conectado a GND (tierra). De igual manera el diodo led, por su ánodo se encuentra conectado al pin 7 del Arduino y su cátodo a GND (tierra).  
+
+<br>
 
 
+**•	CONTROL IR** 
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/d2.jpg)
+
+El sensor IR cuenta con tres puertos la tierra que va conectado a GND, el VDD o de poder el cual va conectado a VCC y el “data” el cual está conectado al puerto cuatro del Arduino uno. Mientras la tira de leds cuenta con tres puertos, la tierra el cual va conectado a GND, el de potencia que va conectado a VCC y el de entrada que está conectado al puerto 5 del Arduino.
+
+<br>
+
+
+**•	ANILLO DE 24 NEO PIXELES** 
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/d3.jpg)
+
+Se observa un botón el cual por un extremo se encuentra conectado al puerto cinco del Arduino y por el otro extremo se encuentra enlazado a GND o tierra. También existe un diodo led el cual cuenta con su respectiva resistencia de protección, esta se encuentra conectado por su ánodo hacia la resistencia como también al puerto cuatro del Arduino mientras su ánodo se encuentra conectado a tierra. Finalmente se observa el anillo de NeoPixels, para este diagrama esquemático se usó una sustitución con la diferencia que el anillo tiene una figura redonda. Pero cuenta con los mismos puertos, la entrada el cual esta anexada al puerto tres del Arduino, la potencia el cual está conectada con Vcc y tierra el cual está conectado con GND.
+
+<br>
+
+<br>
 
 **Diagrama de bloques**
 
 
+<br>
 
 **6. LISTA DE COMPONENTES**
 
