@@ -598,5 +598,12 @@ En conclusión:
 
 **15.2 HOJAS TÉCNICAS**
 
+<br>
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/h1.jpg)
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/h2.jpg)
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/h3.jpg)
 
 
