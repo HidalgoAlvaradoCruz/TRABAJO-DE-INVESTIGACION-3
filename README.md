@@ -644,7 +644,7 @@ https://www.tinkercad.com/things/7uoJzTNgzUh-copy-of-trabinvesanillo-12-neo-pixe
 
 <br>
 
-![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-2/blob/master/img/img%2044.jpg)
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/m6.jpg)
 
 <br>
 
@@ -652,7 +652,11 @@ https://www.tinkercad.com/things/7uoJzTNgzUh-copy-of-trabinvesanillo-12-neo-pixe
 
 <br>
 
-![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-2/blob/master/img/img%2042.jpg)
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/m7.jpg)
+
+<br>
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/m9.jpg)
 
 <br>
 
@@ -665,22 +669,18 @@ LCD......Mayor resistencia en el potenciómetro .......  Mayor brillo
 Motor CC......Mayor resistencia en el potenciómetro .......  Mayor velocidad
 
 
-![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-2/blob/master/img/img%2043.jpg)
-
-<br>
-
-![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-2/blob/master/img/img%2045.jpg)
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/m8.jpg)
 
 <br>
 
 5.	Finalmente, para detener la simulación presionamos el botón “Detener simulación” y todos los actuadores se detienen y el circuito se apaga.
 <br>
 
-![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-2/blob/master/img/img%2046.jpg)
+![](![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/m10.jpg)
 
 <br>
 
-![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-2/blob/master/img/img%2047.jpg)
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/m11.jpg)
 
 <br>
 
