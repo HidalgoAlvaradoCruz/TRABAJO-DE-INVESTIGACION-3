@@ -316,6 +316,15 @@ El programa consiste en combinar dos actuadores y controlarlos mediante ARDUINO,
 <br>
 
 
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/f1.jpg)
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/f2.jpg)
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/f3.jpg)
+
+
+<br>
+
 **Micro Servo Motor**
 
 
