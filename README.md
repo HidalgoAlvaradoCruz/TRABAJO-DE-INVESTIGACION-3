@@ -342,11 +342,7 @@ El ángulo en que rota se controla mediante un potenciómetro, entre mayor sea l
 
 <br>
 
-
-
-
-
-
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/f4.jpg)
 
 <br>
 
