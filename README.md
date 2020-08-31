@@ -640,7 +640,7 @@ https://www.tinkercad.com/things/7uoJzTNgzUh-copy-of-trabinvesanillo-12-neo-pixe
 
 <br>
 
-2.	Una vez en la ventana principal de Tinkercad se puede observar el diseño del circuito, antes de iniciar la simulación se debe configurar el voltaje de entrada o alimentación del circuito, para ello se debe ingresar un valor de 5 [V], caso contrario si el voltaje es menor el circuito no encenderá o si es mayor se corre el riesgo de quemar los integrados.
+2.	Una vez en la ventana principal de Tinkercad se puede observar el diseño del circuito, para el ejemplo se va ha utilizar el circuito Actuador con una pantalla LCD 16X2 y un Motor CC. Antes de iniciar la simulación se debe verficar que el código de programación ingresado sea el correcto, este proceso se debe relizar en todos los circuitos Actuadores diseñados.
 
 <br>
 
