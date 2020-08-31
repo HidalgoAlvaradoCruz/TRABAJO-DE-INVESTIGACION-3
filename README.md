@@ -303,6 +303,9 @@ Los NeoPixel son originales de Adafruit y son diodos LED de tipo 5050 con un con
  
  <br>
 
+El programa consiste en combinar dos actuadores y controlarlos mediante ARDUINO, el circuito consiste en conectar un Pantalla LCD 16 X 2 y proyectar un mensaje "ENCENDER ACTUADORES", al momento que se realiza esta acción se activa un pulso que es dirigdo hacia un Motor CC cuya velocidad es controlada mediante la resistencia introducida en el Potenciómetro.
+
+<br>
 
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/cod1.jpg)
 
@@ -320,6 +323,10 @@ Los NeoPixel son originales de Adafruit y son diodos LED de tipo 5050 con un con
  
  <br>
 
+El programa consiste en activar un Micro Servo Motor, la rotación del motor está parametrizada de 0 a 180 grados.
+
+El ángulo en que rota se controla mediante un potenciómetro, entre mayor sea la resistencia que se ingresa en el potenciómetro mayor será el angulo de rotación.
+<br>
 
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/cod4.jpg)
 
