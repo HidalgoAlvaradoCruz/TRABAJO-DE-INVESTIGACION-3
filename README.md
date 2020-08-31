@@ -309,31 +309,31 @@ Sistema operativo: Windows 8.0 en adelante.
 
 <br>
 
-•	LCD 16 X 2 Y MOTOR CC 
+**•	LCD 16 X 2 Y MOTOR CC**
 
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/L1.jpg)
 
 <br>
 
-•	MICRO SERVO MOTOR 
+**•	MICRO SERVO MOTOR** 
 
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/L2.jpg)
 
 <br>
 
-•	CONTROL REMOTO POR IR 
+**•	CONTROL REMOTO POR IR** 
 
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/L3.jpg)
 
 <br>
 
-•	MOTOR DE VIBRACIÓN
+**•	MOTOR DE VIBRACIÓN**
 
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/L4.jpg)
 
 <br>
 
-• MOTOR DE VIBRACIÓN ANILLO DE 12 NEOPIXELES 
+**• MOTOR DE VIBRACIÓN ANILLO DE 12 NEOPIXELES** 
 
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/L5.jpg)
 
@@ -595,6 +595,96 @@ En conclusión:
 
 **15.1 MANUAL DE USUARIO**
 
+<br>
+
+1.	Para ejecutar la simulación de los  Circuitos Actuadores controlados mediante ARDUINO se debe ingresar a los siguienteS enlaces de Tinkercad:
+
+**•	LCD 16 X 2 Y MOTOR CC**
+
+https://www.tinkercad.com/things/0RJk5Bnk6NZ-actuadores/editel?sharecode=v0elIx3IfH7I5sUWBLL7eGSKoobQMO6wK-31DQ5_H8k?sharecode=v0elIx3IfH7I5sUWBLL7eGSKoobQMO6wK-31DQ5_H8k
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/m1.jpg)
+
+<br>
+
+**•	MICRO SERVO MOTOR** 
+
+https://www.tinkercad.com/things/4aBM1WC2IdW-micro-servo-motor/editel?sharecode=s-cT7fXU_tnPE4uFage6AvsW53XGo7URlYGG6sal78E
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/m2.jpg)
+
+
+<br>
+
+**•	CONTROL REMOTO POR IR** 
+
+https://www.tinkercad.com/things/4s1lsZ5nRsS-copy-of-trainvcontrol-ir/editel?tenant=circuits?sharecode=Wn_WwZJIUiIhCIZCpTXqwQ4hXOhLvjUYtMWV9o3Lj04
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/m3.jpg)
+
+<br>
+
+**•	MOTOR DE VIBRACIÓN**
+
+https://www.tinkercad.com/things/bC2lcUqIPkz-copy-of-trabinvesmotor-de-vibracion/editel?tenant=circuits?sharecode=STefrgk-S4TRrE6naxMbTZG5prn6YaZhpvP-OXesrGg
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/m4.jpg)
+
+<br>
+
+**• MOTOR DE VIBRACIÓN ANILLO DE 12 NEOPIXELES** 
+
+https://www.tinkercad.com/things/7uoJzTNgzUh-copy-of-trabinvesanillo-12-neo-pixeles/editel?tenant=circuits?sharecode=2WkW_zUB4osBsBCYWfObZ2cx1VZ830soNz909e_ayoc
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/m5.jpg)
+
+<br>
+
+2.	Una vez en la ventana principal de Tinkercad se puede observar el diseño del circuito, antes de iniciar la simulación se debe configurar el voltaje de entrada o alimentación del circuito, para ello se debe ingresar un valor de 5 [V], caso contrario si el voltaje es menor el circuito no encenderá o si es mayor se corre el riesgo de quemar los integrados.
+
+<br>
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-2/blob/master/img/img%2044.jpg)
+
+<br>
+
+3.	Una vez configurado el voltaje de entrada, para iniciar la simulación se presiona el botón “Iniciar simulación” ubicado en la parte superior derecha.
+
+<br>
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-2/blob/master/img/img%2042.jpg)
+
+<br>
+
+4.	El Circuito Contador funciona de manera ASCENDENTE de modo que empieza en “0” y termina en “9” el conteo se proyecta en un display de 7 segmentos, el tiempo que se demora en cambiar de un dígito a otro se lo controla con un POTENCIÓMETRO.
+
+<br>
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-2/blob/master/img/img%2043.jpg)
+
+<br>
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-2/blob/master/img/img%2045.jpg)
+
+<br>
+
+Mayor resistencia en el potenciómetro .......  Mayor tiempo de espera 
+
+<br>
+
+5.	Finalmente, para detener la simulación presionamos el botón “Detener simulación” y el contador se detiene regresando a su estado inicial en “0” y se apaga el circuito.
+
+<br>
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-2/blob/master/img/img%2046.jpg)
+
+<br>
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-2/blob/master/img/img%2047.jpg)
+
+<br>
+
+<br>
 
 **15.2 HOJAS TÉCNICAS**
 
