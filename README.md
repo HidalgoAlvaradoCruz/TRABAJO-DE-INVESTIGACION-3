@@ -374,7 +374,17 @@ Sistema operativo: Windows 8.0 en adelante.
 
 **7. MAPA DE VARIABLES**
 
+<br>
 
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/v1.jpg)
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/v2.jpg)
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/v3.jpg)
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/v4.jpg)
+
+<br>
 
 **8. EXPLICACIÓN DEL CÓDIGO FUENTE**
 
