@@ -311,6 +311,37 @@ Se observa un botón el cual por un extremo se encuentra conectado al puerto cin
 
 **Diagrama de bloques**
 
+<br>
+
+**•	LCD 16 X 2 Y MOTOR CC**
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/lc6.jpg)
+
+<br>
+
+**•	MICRO SERVO MOTOR** 
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/lc5.jpg)
+
+<br>
+
+**•	CONTROL REMOTO POR IR** 
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/lc3.jpg)
+
+<br>
+
+**•	MOTOR DE VIBRACIÓN**
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/lc2.jpg)
+
+<br>
+
+**• MOTOR DE VIBRACIÓN ANILLO DE 12 NEOPIXELES** 
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/lc1.jpg)
+
+<br>
 
 <br>
 
@@ -573,6 +604,13 @@ El circuito creado en Tinkercad puede funcionar en cualquier servidor si se le d
 
 Implementación en físico de Arduino con 3 actuadores
 
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/a1.png)
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/a2.png)
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/a3.png)
+
+<br>
 
 **11. CONCLUSIONES**
 
