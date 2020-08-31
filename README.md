@@ -662,12 +662,11 @@ https://www.tinkercad.com/things/7uoJzTNgzUh-copy-of-trabinvesanillo-12-neo-pixe
 
 4.	El Circuito proyecta un mensaje en la Pantalla LCD y se enciende el Motor CC, tanto el motor como la pantalla LCD se rigen a la resistencia ingresada en el potenciómetro de la siguiente manera:
 
-<br>
-
 LCD......Mayor resistencia en el potenciómetro .......  Mayor brillo
 
 Motor CC......Mayor resistencia en el potenciómetro .......  Mayor velocidad
 
+<br>
 
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/m8.jpg)
 
