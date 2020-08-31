@@ -299,10 +299,16 @@ Los NeoPixel son originales de Adafruit y son diodos LED de tipo 5050 con un con
 
 **Pantalla LCD 16 X 2 y Motor CC**
 
-![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/cod5.jpg
-)
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/cod5.jpg)
+ 
+ <br>
 
 
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/cod1.jpg)
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/cod2.jpg)
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/cod3.jpg)
 
 
 
