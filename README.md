@@ -618,7 +618,7 @@ El circuito creado en Tinkercad puede funcionar en cualquier servidor si se le d
 
 **10. APORTACIONES**
 
-Implementación en físico de Arduino con 3 actuadores
+Implementación en físico de Arduino con actuadores.
 
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/a1.png)
 
