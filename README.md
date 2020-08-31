@@ -492,6 +492,8 @@ Led "cátodo" conectado con el Pin "GND" de arduino.
 
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/img22.png)
 
+<br>
+
 **9. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN**
 
 <br>
@@ -560,6 +562,12 @@ En conclusión:
 
 
 **13. CRONOGRAMA**
+
+<br>
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/cronograma.jpg)
+
+<br>
 
 
 
