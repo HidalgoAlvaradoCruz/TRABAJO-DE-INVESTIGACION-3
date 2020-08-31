@@ -648,7 +648,7 @@ https://www.tinkercad.com/things/7uoJzTNgzUh-copy-of-trabinvesanillo-12-neo-pixe
 
 <br>
 
-3.	Una vez configurado el voltaje de entrada, para iniciar la simulación se presiona el botón “Iniciar simulación” ubicado en la parte superior derecha.
+3.	Una vez revisado el código de programación, para iniciar la simulación se presiona el botón “Iniciar simulación” ubicado en la parte superior derecha.
 
 <br>
 
@@ -656,9 +656,14 @@ https://www.tinkercad.com/things/7uoJzTNgzUh-copy-of-trabinvesanillo-12-neo-pixe
 
 <br>
 
-4.	El Circuito Contador funciona de manera ASCENDENTE de modo que empieza en “0” y termina en “9” el conteo se proyecta en un display de 7 segmentos, el tiempo que se demora en cambiar de un dígito a otro se lo controla con un POTENCIÓMETRO.
+4.	El Circuito proyecta un mensaje en la Pantalla LCD y se enciende el Motor CC, tanto el motor como la pantalla LCD se rigen a la resistencia ingresada en el potenciómetro de la siguiente manera:
 
 <br>
+
+LCD......Mayor resistencia en el potenciómetro .......  Mayor brillo
+
+Motor CC......Mayor resistencia en el potenciómetro .......  Mayor velocidad
+
 
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-2/blob/master/img/img%2043.jpg)
 
@@ -668,12 +673,7 @@ https://www.tinkercad.com/things/7uoJzTNgzUh-copy-of-trabinvesanillo-12-neo-pixe
 
 <br>
 
-Mayor resistencia en el potenciómetro .......  Mayor tiempo de espera 
-
-<br>
-
-5.	Finalmente, para detener la simulación presionamos el botón “Detener simulación” y el contador se detiene regresando a su estado inicial en “0” y se apaga el circuito.
-
+5.	Finalmente, para detener la simulación presionamos el botón “Detener simulación” y todos los actuadores se detienen y el circuito se apaga.
 <br>
 
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-2/blob/master/img/img%2046.jpg)
