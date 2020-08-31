@@ -287,6 +287,60 @@ Los NeoPixel son originales de Adafruit y son diodos LED de tipo 5050 con un con
 
 **6. LISTA DE COMPONENTES**
 
+<br>
+
+•	Laptop 
+
+Procesador: Intel Core i5-7200U CPU @ 2.50Ghz
+
+Memoria instalada (Ram): 8 Gb 
+
+Tipo de sistema: 64 bits. 
+
+Sistema operativo: Windows 8.0 en adelante. 
+
+<br>
+ 
+•	Software de Simulación Thinkercad 
+
+<br>
+
+**COMPONENTES DE LOS CIRCUITOS DISEÑADOS:**
+
+<br>
+
+•	LCD 16 X 2 Y MOTOR CC 
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-2/blob/master/img/img22.jpeg)
+
+<br>
+
+•	MICRO SERVO MOTOR 
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-2/blob/master/img/img22.jpeg)
+
+<br>
+
+•	CONTROL REMOTO POR IR 
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-2/blob/master/img/img22.jpeg)
+
+<br>
+
+•	MOTOR DE VIBRACIÓN
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-2/blob/master/img/img22.jpeg)
+
+<br>
+
+• MOTOR DE VIBRACIÓN ANILLO DE 12 NEOPIXELES 
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-2/blob/master/img/img22.jpeg)
+
+
+<br>
+
+<br>
 
 
 **7. MAPA DE VARIABLES**
