@@ -1,4 +1,4 @@
-## Implementación en Thinkercad de un programa en Arduino por cada uno de los actuadores disponibles:Motor de CC,Control remoto por IR,Microservomotor, Motor de vibración,LCD,Anillo de 12 Neopixeles
+## Implementación en Thinkercad de un programa en Arduino por cada uno de los actuadores disponibles: Motor de CC, Control remoto por IR, Microservomotor, Motor de vibración, LCD, Anillo de 12 Neopixeles
 
 <br>
 
@@ -284,11 +284,16 @@ Los NeoPixel son originales de Adafruit y son diodos LED de tipo 5050 con un con
 
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/d5.jpg)
 
+El circuito esta diseñado de manera que la pantalla LCD 16x2 está conectada al ARDUINO y regulada con un potenciómetro para controlar su brillo además tiene un transistor pnp conectado a un potenciómetro para regular la velocidad del Motor CC.
+
 <br>
+
 
 **•	MICRO SERVO MOTOR** 
 
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-DE-INVESTIGACION-3/blob/master/img/d4.jpg)
+
+El Micro Servo Motor esta regulado mediante un potenciómetro que controla el ángulo de rotación del Servo a siendo la entrada de datos el puerto A0 y la salida el pin 9 que genera el pulso de activación para el Servo Motor.
 
 <br>
 
